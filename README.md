@@ -15,7 +15,7 @@
 ##
 <div>
   <a href="https://github.com/UiltonRibeiro">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=UiltonRibeiro&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=UiltonRibeiro&show_icons=true&theme=ayu-mirage"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UiltonRibeiro&layout=donut&langs_count=7&theme=ayu-mirage"/>
 </div>
 
